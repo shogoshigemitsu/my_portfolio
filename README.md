@@ -1,24 +1,18 @@
-# README
+# my_portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is my first portfolio ever!
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+_ Real time chat engine for comments
+_ Blog
+_ Portfolio
+_ Drag and drop interface
 
-* System dependencies
+### Code.example
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```ruby
+def my_great_method
+  puts ""here it is""
+end
+```
